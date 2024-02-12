@@ -1,0 +1,13 @@
+current directory: /Users/Aarav/Desktop/ReactNative/papercollection/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240212-8678-1mh62p6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Aarav/Desktop/ReactNative/papercollection/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/Aarav/Desktop/ReactNative/papercollection/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/Aarav/Desktop/ReactNative/papercollection/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
